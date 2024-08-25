@@ -11,8 +11,8 @@
 #include "esp_attr.h"
 #include <ESPping.h>
 
-String ssid = "IGK20";
-String password = "18072019";
+String ssid = "xxxxxxxx";
+String password = "xxxxxxxxx";
 
 
 static bool Touch_Int_Flag = false;
